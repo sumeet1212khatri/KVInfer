@@ -8,6 +8,12 @@
 **KVInfer** is a production-grade **152M parameter chat LM inference system** built from scratch.  
 Custom C++ daemon engine · FastAPI SSE backend · KVInfer Studio dark chat frontend.
 
+# Live Demo
+
+[![Deployed on HuggingFace](https://img.shields.io/badge/Deployed%20On-HuggingFace-b7fc1d?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/NOT-OMEGA/KVInfer)
+
+
+
 > **Architecture:** GPT-2 Decoder-Only · 16 layers · 768 embd · 12 heads · 1024 context
 
 ---
