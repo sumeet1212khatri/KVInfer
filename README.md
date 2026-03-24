@@ -11,6 +11,7 @@ Custom C++ daemon engine · FastAPI SSE backend · KVInfer Studio dark chat fron
 > **Architecture:** GPT-2 Decoder-Only · 16 layers · 768 embd · 12 heads · 1024 context
 
 ---
+<img width="1296" height="824" alt="image" src="https://github.com/user-attachments/assets/ee370e1e-7ff5-4fa6-993d-fe5d0bd60205" />
 
 ## System Overview
 
